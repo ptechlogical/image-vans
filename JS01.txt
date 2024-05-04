@@ -1,0 +1,1668 @@
+1. Print Hello World 15/01/2024 to 16/01/2024
+Description bold important points
+
+You need to print "Hello World" .
+
+Input
+No input
+
+Output
+Print "Hello World" on a line
+
+Sample Input 1 
+
+No Input
+Sample Output 1
+
+Hello World
+
+
+
+----------------------------------------------------------------------
+
+
+
+2. Print Floobyte Intern 15/01/2024 to 16/01/2024
+Description
+
+You need to print "Floobyte Intern" on a line, and print "A Transformation in Education" on a new line.
+
+Input
+No input
+
+Output
+Print "Floobyte Intern" on a line, and Print "A Transformation in Education" on a new line.
+
+Sample Input 1 
+
+No Input
+Sample Output 1
+
+Floobyte Intern
+A Transformation in Education
+
+
+3. Multiply by 50 15/01/2024 to 16/01/2024
+Description
+
+You are given a number stored in a variable, with the name n
+
+Multiply the number stored in the variable n by 50, and print the result obtained
+
+Input
+The first and the only line of the input contains the number stored in the variable n
+
+Constraints
+
+1 <= N <= 20
+
+Output
+Print a single number, the result obtained by multiplying it by 50
+
+Sample Input 1 
+
+2
+Sample Output 1
+
+100
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+
+4. Operation on Numbers 15/01/2024 to 16/01/2024
+Description
+
+You are given a number, stored in a variable with the name n. Perform the following operations on the value stored in n:
+
+1. Multiply the value by 3
+2. Add 7 to it
+3. Subtract 10 from it
+After performing all the above operations, print the updated value
+
+Input
+The first and the only line of the input contains the number, stored in the variable n
+
+Constraints
+
+1 <= N <= 30
+
+Output
+Print a single integer, denoting the updated value of the number stored, after performing all the operations, given in the problem statement
+
+Sample Input 1 
+
+4
+Sample Output 1
+
+9
+
+
+4. Square It 15/01/2024 to 16/01/2024
+Description
+
+You are given an integer n, print its [square value](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow) (number raised to exponent 2)
+
+Input
+Input Format
+
+First and the only line contains one integer n
+
+Constraints
+
+n < 100
+
+Output
+Output an integer which is the square of n
+
+Sample Input 1 
+
+7
+Sample Output 1
+
+49
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+
+
+5. Cube of a number 15/01/2024 to 16/01/2024
+Description
+
+Given a number n, find its cube.
+
+Input
+The first and the only line of the input contains the number n.
+
+Constraints
+
+1 <= n <= 30
+
+Output
+Print the cube of a number.
+
+Sample Input 1 
+
+2
+Sample Output 1
+
+8
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+
+6. Product of Six 15/01/2024 to 16/01/2024
+Description
+
+You are given six numbers, stored in variables with the following names:
+
+one, two, three, four, five, six
+Print the product of all the six numbers
+
+Input
+The first and the only line of the input contains 6 numbers stored in the variables one, two, three, four, five, six
+
+Constraints
+
+1 <= N <= 20
+
+Output
+Print a single integer, denoting the product of the six numbers given.
+
+Sample Input 1 
+
+1 2 3 4 5 6
+Sample Output 1
+
+720
+Hint
+
+In the sample test case, the value of the variables is as follows:
+
+one = 1
+
+two = 2
+
+three = 3
+
+four = 4
+
+five = 5
+
+six = 6
+
+After multiplying the six numbers, we get the following result: 1 * 2 * 3 * 4 * 5 * 6 = 720, which is the required answer
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+7. Find Product 15/01/2024 to 16/01/2024
+Description
+
+You are given five numbers stored in variables with the following names:
+
+one, two, three, four, five
+
+Find the product of the five values, and print it
+
+Input
+The first and the only line of the input contains five values, stored in the variables one, two, three, four, five
+
+Output
+Print the product of the five values stored in the variables one, two, three, four, five
+
+Sample Input 1 
+
+1 2 3 4 5
+Sample Output 1
+
+120
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+8. Sum of five 15/01/2024 to 16/01/2024
+Description
+
+You are given five numbers stored in variables with the following names:
+
+one, two, three, four, five
+Find the sum of the five values, and print it
+
+Input
+The first and the only line of the input contains five values, stored in the variables one, two, three, four, five
+
+Output
+Print the sum of the five values stored in the variables one, two, three, four, five
+
+Sample Input 1 
+
+1 2 3 4 5
+Sample Output 1
+
+15
+Hint
+
+In the sample test case, the values stored in the variables are:
+one = 1, two = 2, three = 3, four = 4, five = 5
+
+The sum of the values is: 1 + 2 + 3 + 4 + 5 = 15, which is the required sum
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+9. Product of VIII 15/01/2024 to 16/01/2024
+Description
+
+You are given eight numbers, stored in variables with the following names:
+
+one, two, three, four, five, six, seven, eight
+Print the product of all the eight numbers
+
+Input
+The first and the only line of the input contains 8 numbers stored in the variables one, two, three, four, five, six, seven, eight
+
+Constraints
+
+1 <= N <= 20
+
+Output
+Print a single integer, denoting the product of the eight numbers given.
+
+Sample Input 1 
+
+1 2 3 4 5 6 7 8
+Sample Output 1
+
+40320
+Hint
+
+In the sample test case, the value of the variables is as follows:
+
+one = 1
+
+two = 2
+
+three = 3
+
+four = 4
+
+five = 5
+
+six = 6
+
+seven = 7
+
+eight = 8
+
+After multiplying the eight numbers, we get the following result: 1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 = 40320, which is the required answer
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+
+10. Double all 15/01/2024 to 16/01/2024
+Description
+
+You are given five numbers, stored in the variables with the following names:
+
+one, two, three, four, five
+
+All the values are doubled, that is, they are multiplied by 2
+
+Find the sum of the values stored in one, two, three, four, five, after the above operations are performed
+
+Input
+The first and the only line of the input contains the values stored in variables one, two, three, four, five
+
+Output
+Print the sum of the values stored in one, two, three, four, five, after the required operations are performed
+
+Sample Input 1 
+
+1 2 3 4 5
+Sample Output 1
+
+30
+Hint
+
+In the sample test case, the values stored in the variables are as follows:
+
+one = 1, two = 2, three = 3, four = 4, five = 5
+
+After doubling all the values, the values become:
+
+one = 1 * 2 = 2
+
+two = 2 * 2 = 4
+
+three = 3 * 2 = 6
+
+four = 4 * 2 = 8
+
+five = 5 * 2 = 10
+
+Therefore, the sum becomes 2 + 4 + 6 + 8 + 10 = 30, which is the required output
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+11. Double Two Triple One 15/01/2024 to 16/01/2024
+Description
+
+You are given four numbers, stored in the variables with the following names:
+
+one, two, three, four
+
+Perform the following operations on the four numbers:
+
+1. The value stored in one and two is doubled, such that, if it was 2 initially, it becomes 4
+2. The value stored in three is multiplied by 3, such that, if it was 4, it becomes 12
+3. The value stored in four is increased by 4, such that if it was 7 initially, it becomes 11
+
+Find the sum of the values stored in one, two, three, four, after the above operations are performed
+
+Input
+The first and the only line of the input contains the values stored in variables one, two, three, four
+
+Output
+Print the sum of the values stored in one, two, three, four, after the required operations are performed
+
+Sample Input 1 
+
+1 2 3 4
+Sample Output 1
+
+23
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+12. Operation on Numbers - 2 15/01/2024 to 16/01/2024
+Description
+
+You are given a number stored in a variable with the name N, and another number stored in a variable with the name M
+
+You have to perform the following operations on the value stored in N:
+
+1. Multiply the value stored in N by 40
+2. Add 20 to the value stored in N
+3. Subtract 50 from the value stored in N
+
+You are given another number stored in the variable M
+
+If the value after performing the above operations is greater than M, print Greater!, else if the value is equal, print Equal!, else print Lesser!
+
+For example, consider the value stored in N = 5, and the value stored in M = 10
+
+Then, after performing the above operations, the value stored in N becomes:
+
+     N = N * 40 = 200
+
+     N = N + 20 = 220
+
+     N = N - 50 = 170
+Now, the value stored in M is 10, which is lesser than the value stored in N. Therefore, the output is Greater!
+
+Input
+The first and the only line of the input contains the value stored in N and M
+
+Output
+Print the output according to the condition shown in the problem statement
+
+Sample Input 1 
+
+5 10
+Sample Output 1
+
+Greater!
+Hint
+
+In the sample test case, consider the value stored in N = 5, and the value stored in M = 10
+
+Then, after performing the above operation, the value stored in N becomes:
+
+     N = N * 40 = 200
+
+     N = N + 20 = 220
+
+     N = N - 50 = 170
+Now, the value stored in M is 10, which is lesser than the value stored in N. Therefore, the output is Greater!
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+13. Seven Numbers 15/01/2024 to 16/01/2024
+Description
+
+You are given 7 numbers A, B, C, D, E, F, G. Find out the product of (A + B + C) and (D + E + F + G).
+
+Input
+The first and the only line of the input contains A, B, C, D, E, F, and G.
+
+Constraints
+
+1 <= A, B, C, D, E, F, G <= 30
+
+Output
+Print the value of the expression (A + B + C) * (D + E + F + G)
+
+Sample Input 1 
+
+1 2 3 4 5 6 7
+Sample Output 1
+
+132
+Hint
+
+The value of A = 1, B = 2, C = 3, D = 4, E = 5, F = 6, G = 7. Therefore, the sum of (A + B + C) is 6, and that of (D + E + F + G) is 22. Therefore, the product of (A + B + C) and that of (D + E + F + G) is equal to 6 x 22 = 132
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+14. Find X again 15/01/2024 to 16/01/2024
+Description
+
+Given a value of X, find the final value of X, if X is multiplied by 7 twice.
+
+Input
+Input:
+
+Input will contain one number X
+
+Output
+Output:
+
+Output should be the number X after performing the above multiply operations
+
+Sample Input 1 
+
+6
+Sample Output 1
+
+294
+Hint
+
+Explanation
+
+The value of X = 6, so after multiplying by 7 twice, it becomes 6 x 7 x 7, it becomes 294
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+15. Infinity Stones 15/01/2024 to 16/01/2024
+Description
+
+You are given five numbers, stored in variables with the following names:
+
+one, two, three, four, five, six
+
+The value stored in the variables two, five, six has been doubled, such that if initially the value was 3, it has become 6
+
+The value stored in the variables three, four has been increased three times, such that if initially it was 3, it has become 9
+
+The value stored in the variable one has not been changed.
+
+Find the sum of the updated values stored in one, two, three, four, five, six
+
+Input
+The first and the only line of input contains the values stored in the variables one, two, three, four, five, six
+
+Output
+Find the sum of the updated values stored in one, two, three, four, five, six
+
+Sample Input 1 
+
+1 2 3 4 5 6
+Sample Output 1
+
+48
+Hint
+
+In the sample test case, the value stored in one = 1, two = 2, three = 3, four = 4, five = 5, six = 6
+
+After updating the values, the values stored become one = 1, two = 4, three = 9, four = 12, five = 10, six = 12
+
+Adding the updated values the sum becomes 1 + 4 + 9 + 12 + 10 + 12 = 48, which is the required answer
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+16. Update & Compare 15/01/2024 to 16/01/2024
+Description
+
+You are given two numbers, stored in variables with the names num1 and num2
+
+Print the output of the following operation
+
+num1 > num2, this prints true if num1 is greater than num2, else it prints false
+After this operation is performed, another number, stored in a variable with name num3 is added to num1. After this, print the result of the following operation again
+
+num1 > num2, this prints true if num1 is greater than num2, else it prints false
+
+Input
+The first and the only line of input contains the values stored in num1, num2, and num3
+
+Output
+Print the result of the operations given in the problem statement
+
+Sample Input 1 
+
+4 8 5
+Sample Output 1
+
+false
+true
+Hint
+
+In the sample test case, the value stored in num1 = 4, while the value stored in num2 = 8. The result of the operation
+
+ num1 > num2, such that 4 is not greater than 8, so the output is false
+After this step, the value stored in num3 = 5, is added to num1, so the value stored in num1 becomes num1 = num1 + num3 = 4 + 5 = 9
+
+Therefore, the result of the operation
+
+num1 > num2, such that 9 is greater than 8, is true, so the output is true the second time
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+17. Compare two Numbers 15/01/2024 to 16/01/2024
+Description
+
+You are given two numbers stored in two variables, with the name, num1 and num2
+
+Print the result of the following operations
+
+1. num1 > num2 -> this operation prints true if num1 is greater than num2, otherwise it prints false
+2. num1 < num2 -> this operations prints true if num1 is smaller than num2, otherwise it prints false
+3. num1 == num2 -> this operation print true if num1 is equal to num2, otherwise it prints false
+You have to print the result of three operations in the order as shown above
+
+Input
+The first and the only line of input contains the values stored in num1 and num2
+
+Output
+Print the result of three operations, one by one, on a new line
+
+Sample Input 1 
+
+4 16 
+Sample Output 1
+
+false
+true
+false
+Hint
+
+In the sample test case, the value stored in num1 = 4 and value stored in num2 = 16
+
+In the first operation num1 > num2, 4 is not greater than 16, so we get the output as false
+
+In the second operation num1 < num2, 4 is lesser than 16, so we get the output as true
+
+In the third operation num1 == num2, num1 is not equal to num2, so we get the output as false
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+18. Sum & Compare 15/01/2024 to 16/01/2024
+Description
+
+You are given five numbers, stored in the variables with the following names:
+
+one, two, three, four, five
+
+You have to declare another variable sum1, such that sum1 = one + two + three
+
+Also, you have to declare another variable sum2, such that sum2 = four + five
+
+Finally, you have to print the output of the following operation
+
+sum1 > sum2 (This operation prints true if sum1 is greater than sum2, else it prints false)
+
+Input
+The first and the only line of input contains the values stored in one, two, three, four, five
+
+Output
+Print the result of the operation, after finding the values of sum1 and sum2, as explained in the problem statement
+
+Sample Input 1 
+
+1 2 3 4 5
+Sample Output 1
+
+false
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+19. Compare Seven Numbers 15/01/2024 to 16/01/2024
+Description
+
+You are given seven numbers, stored in the variable with the following names:
+
+a, b, c, d, e, f, g
+
+You have to declare two variables, sum1 and sum2, such that sum1 = (a + b) * c and sum2 = (d + e + f + g)
+
+Print the output of the following operation
+
+sum1 > sum2
+
+Input
+The first and the only line of input contains the seven numbers stored in the variable with the names a, b, c, d, e, f, g
+
+Output
+Print the output of the operation, given in the problem statement
+
+Sample Input 1 
+
+1 2 3 4 5 6 7
+Sample Output 1
+
+false
+Hint
+
+In the sample test case, the value stored in the variables is as follows:
+
+a = 1, b = 2, c = 3, d = 4, e = 5, f = 6, g = 7
+
+The value of sum1, as explained in the problem statement will be, sum1 = (a + b) * c = (1 + 2) * 3 = (3) * 3 = 9
+
+Similarly, the value of sum2, as explained in the problem statement will be sum2 = (d + e + f + g) = (4 + 5 + 6 + 7) = 22
+
+The operation sum1 > sum2 will print false, as the value of sum2 is greater than sum1, hence the output is false
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+20. Area and Perimeter 15/01/2024 to 16/01/2024
+Description
+
+You are given the sides of rectangle 1: L1 and B1 and the sides of rectangle 2: L2 and B2.
+
+You need to print if the area of rectangle 1 is greater than rectangle 2.
+
+You also need to print if the perimeter of rectangle 1 is greater than rectangle 2.
+
+Input
+The first line of each test case contains two space-separated integers L1, B1, L2, B2, the length and breadth of rectangle 1 and the length and breadth of rectangle 2.
+
+Constraints
+
+1 <= L1, B1, L2, B2 <= 100
+
+Output
+Print(Area of rectangle 1 > Area of rectangle 2)
+
+Print(Perimeter of rectangle 1 > Perimeter of rectangle 2)
+
+Sample Input 1 
+
+1 2 2 3
+Sample Output 1
+
+false
+false
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+21. Cube and Square 15/01/2024 to 16/01/2024
+Description
+
+You are given two numbers n and m, you need to check if the cube of n is greater than the square of m.
+
+Input
+The first line contains two space-separated integers n and m.
+
+Output
+Print true if the cube of n is greater than the square of m, or else print false.
+
+Sample Input 1 
+
+2 3
+Sample Output 1
+
+false
+Hint
+
+In the given sample test case n = 2 and m = 3, so the cube of n is 2 * 2 * 2 = 8, and the square of m is 3 * 3 = 9.
+
+Here the cube of n is less than the square of m.
+
+Therefore, the output is false.
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+22. Print Floobyte Intern II 15/01/2024 to 16/01/2024
+Description
+
+You are given a number stored in a variable with the name num
+
+You have to print Floobyte Intern, as many times as the number stored in the variable num
+
+Every time, print Floobyte Intern on a new line
+
+Input
+The first and the only line of input contains a number stored in the variable num
+
+Output
+Print Floobyte Intern, as many times as the number stored in the variable num, every time on a new line
+
+Sample Input 1 
+
+5
+Sample Output 1
+
+Floobyte Intern
+Floobyte Intern
+Floobyte Intern
+Floobyte Intern
+Floobyte Intern
+Hint
+
+In the sample test case, the value stored in num = 5
+
+Therefore, the output is as follows
+
+Floobyte Intern
+Floobyte Intern
+Floobyte Intern
+Floobyte Intern
+Floobyte Intern
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+23. Hello World 5 Times 15/01/2024 to 16/01/2024
+Description
+
+Print Hello World 5 times
+
+Every time, print Hello World on a new line
+
+Input
+No Input
+
+Output
+Print Hello World 5 times, every time on a new line
+
+Sample Input 1 
+
+No Input
+Sample Output 1
+
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hint
+
+Print Hello World 5 times
+
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+24. Hello World 10 Times 15/01/2024 to 16/01/2024
+Description
+
+Print Hello World 10 times
+
+Every time, print Hello World on a new line
+
+Input
+No Input
+
+Output
+Print Hello World 10 times, every time on a new line
+
+Sample Input 1 
+
+No Input
+Sample Output 1
+
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hint
+
+Print Hello World 10 times
+
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+25. Loop 1 to 5 15/01/2024 to 16/01/2024
+Description
+
+You have to print all the numbers from 1 to 5
+
+Print each number on a new line
+
+Input
+No Input
+
+Output
+Print all the numbers from 1 to 5, on a new line
+
+Sample Input 1 
+
+No Input
+Sample Output 1
+
+1
+2
+3
+4
+5
+Hint
+
+Print all the values from 1 to 5 are printed on a new line
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+26. Loop 1 to 10 15/01/2024 to 16/01/2024
+Description
+
+You have to print all the numbers from 1 to 10
+
+Print each number on a new line
+
+Input
+No Input
+
+Output
+Print all the numbers from 1 to 10, on a new line
+
+Sample Input 1 
+
+No Input
+Sample Output 1
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Hint
+
+Therefore, all the values from 1 to 10 are printed on a new line
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+27. Loop 1 to N 15/01/2024 to 16/01/2024
+Description
+
+You are given a number stored in a variable with the name num
+
+You have to print all the numbers from 1 to num, including num as well.
+
+Print each number on a new line
+
+Input
+The first and the only line of the input contains the value present in num
+
+Output
+Print all the numbers from 1 to the value stored in num, including num as well, on a new line
+
+Sample Input 1 
+
+5
+Sample Output 1
+
+1
+2
+3
+4
+5
+Hint
+
+In the sample test case, the value stored in num = 5
+
+Therefore, all the values from 1 to 5 are printed on a new line
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+28. From A to B 15/01/2024 to 16/01/2024
+Description
+
+You are given two numbers, stored in variables with the following names
+
+max, min
+
+You have to print all the numbers from min to max, excluding max. Print each number on a new line
+
+For example, if the value stored in max = 19, and the value stored in min = 14, then the output will be
+
+14
+15
+16
+17
+18
+
+Note: The value stored in max will always be greater than or equal to min
+
+Input
+The first and the only line of input contains the value stored in max, min respectively
+
+Output
+Print all the values from min to max, excluding max. Print each number on a new line
+
+Sample Input 1 
+
+19 13
+Sample Output 1
+
+13
+14
+15
+16
+17
+18
+Hint
+
+In the sample test case, the value stored in max = 19, and the value stored in min = 13
+
+Therefore, all the values from 13 to 19 are printed, excluding 19, as explained in the problem statement
+
+Therefore, the answer becomes
+
+13
+14
+15
+16
+17
+18
+29. Multiplication Table of 2 15/01/2024 to 16/01/2024
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+Description
+
+Print the multiplication table of 2
+
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Print each number, on a new line
+
+Input
+No Input
+
+Output
+Print the multiplication table of 2
+
+Sample Input 1 
+
+No Input
+Sample Output 1
+
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Hint
+
+Multiplication table of 2 is printed
+
+Therefore, the output is
+
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+30. Multiplication Table of 3 15/01/2024 to 16/01/2024
+Description
+
+Print the multiplication table of 3
+
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+Print each number, on a new line
+
+Input
+No Input
+
+Output
+Print the multiplication table of 3
+
+Sample Input 1 
+
+No Input
+Sample Output 1
+
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+Hint
+
+Multiplication table of 3 is printed
+
+Therefore, the output is
+
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+31. Multiplication Table of N 15/01/2024 to 16/01/2024
+Description
+
+Given a number, stored in the variable with the name num
+
+Print the multiplication table of the value stored in num
+
+For example, if the value stored in num is 2, then the output should be
+
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Print each number, on a new line
+
+Input
+The first and the only line of the input contains the value stored in num
+
+Output
+Print the multiplication table of the value stored in num, in the format as shown in the problem statement
+
+Sample Input 1 
+
+3
+Sample Output 1
+
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+Hint
+
+In the sample test case, the value stored in num = 3. Therefore, the multiplication table of num is printed
+
+Therefore, the output is
+
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+32. Move 2 Ahead 15/01/2024 to 16/01/2024
+Description
+
+You are given a number, stored in a variable with the name num
+
+Print all the odd numbers lesser than or equal to the value stored in num
+
+Only those numbers need to be printed which are greater than zero
+
+For example, given that the value stored in num = 12
+
+Therefore, the output will be
+
+1
+3
+5
+7
+9
+11
+
+Input
+The first and the only line of the input contains the value stored in the variable num
+
+Output
+Print all the odd numbers greater than 0, and less than or equal to the value stored in num. Print all the numbers on a new line
+
+Sample Input 1 
+
+13
+Sample Output 1
+
+1
+3
+5
+7
+9
+11
+13
+Hint
+
+In the sample test case, the value stored in num = 13. Therefore, all the odd numbers greater than 0, and less than or equal to 13, are printed
+
+Therefore, the output is
+
+1
+3
+5
+7
+9
+11
+13
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+33. Move 2 Ahead II 15/01/2024 to 16/01/2024
+Description
+
+You are given a number stored in a variable with the name num
+
+You have to print all the even numbers greater than zero, and less than or equal to the value stored in num
+
+For example, if the value stored in num = 13, then the output will be
+
+2
+4
+6
+8
+10
+12
+Note: All the values need to be printed on a new line
+
+Input
+The first and the only line of the input contains the value stored in the variable num
+
+Output
+Print all the even values greater than zero, and less than or equal to the value stored in num on a new line
+
+Sample Input 1 
+
+12
+Sample Output 1
+
+2
+4
+6
+8
+10
+12
+Hint
+
+In the sample test case, the value stored in num = 12. Therefore, all the even values less than or equal to 12, and greater than 0, will be printed
+
+Hence, the output becomes
+
+2
+4
+6
+8
+10
+12
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+34. Sum of 1 to N 15/01/2024 to 16/01/2024
+Description
+
+You are given a number stored in a variable with the name N
+
+Find the sum of all the numbers from 1 to N
+
+For example, if the value stored in N = 5, then the sum of 1 to 5 is
+
+1
+2
+3
+4
+5
+Therefore, the sum becomes, sum = 1 + 2 + 3 + 4 + 5 = 15, which is the required output
+
+Input
+The first and the only line of input contains the number stored in the variable N
+
+Output
+Print the sum of all the numbers from 1 to N
+
+Sample Input 1 
+
+5
+Sample Output 1
+
+15
+Hint
+
+if the value stored in N = 5, then the sum of 1 to 5 is
+
+1
+2
+3
+4
+5
+Therefore, the sum becomes, sum = 1 + 2 + 3 + 4 + 5 = 15, which is the required output
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+35. Sum of 1 to N 15/01/2024 to 16/01/2024
+Description
+
+You are given a number, stored in a variable with the name N
+
+Find the sum of al the numbers 1 to N
+
+For example, if the value stored inN = 5, then the sum of 1 to 5 is
+
+1
+2
+3
+4
+5
+Therefore, the sum becomes,sum = 1 + 2 + 3 + 4 + 5 = 15, which is the required output
+
+
+Input
+The first and the only line of input contains the number stored in the variableN
+
+
+Output
+Print the sum of all the numbers from 1 to N
+
+
+Sample Input 1 
+
+5
+Sample Output 1
+
+15
+Hint
+
+if the value stored inN = 5, then the sum of 1 to 5 is
+
+1
+2
+3
+4
+5
+Therefore, the sum becomes,sum = 1 + 2 + 3 + 4 + 5 = 15, which is the required output
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+36. Even Sum Below N 15/01/2024 to 16/01/2024
+Description
+
+You are given a number, stored in a variable with the namenum
+
+Find the sum of all even numbers greater than zero, and less than or equal to the value stored innum
+
+For example, if the value stored innum = 5, then all the even numbers smaller than or equal to 5, and greater than zero are
+
+2
+4
+Therefore, the sum becomes,sum = 2 + 4 = 6, which is the required output
+
+
+Input
+The first and the only line of input contains the number stored in the variablenum
+
+
+Output
+Print the sum of all even numbers greater than zero, and less than or equal to the value stored innum
+
+
+Sample Input 1 
+
+6
+Sample Output 1
+
+12
+Hint
+
+In the sample test case, the value stored innum = 6
+
+Therefore, all the values smaller than or equal to the value stored innum, and greater than zero are
+
+2 
+4
+6
+Therefore, the value of sum becomes,sum = 2 + 4 + 6 = 12, which is the required output
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+37. Odd Sum Below N 15/01/2024 to 16/01/2024
+Description
+
+You are given a number, stored in a variable with the namenum
+
+Find the sum of all odd numbers, greater than 0, and less than or equal to the value stored innum
+
+Finally, print the sum
+
+For example, if the value stored innum = 5
+
+Then, all the odd numbers smaller than 5, will be
+
+1
+3
+5
+Therefore, the sum becomes,sum = 1 + 3 + 5 = 9, which is the required output
+
+
+Input
+The first and the only line of the input contains the value stored innum
+
+
+Output
+Find the sum of all the odd numbers greater than 0, and less than or equal to the value stored innum, and print it
+
+
+Sample Input 1 
+
+7
+Sample Output 1
+
+16
+Hint
+
+In the sample test case, the value stored innum = 7. Therefore, all the odd numbers, smaller than or equal to 7, and greater than 0, are
+
+1
+3
+5
+7
+Therefore, the sum becomes,1 + 3 + 5 + 7 = 16, which is the required output
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+37. Mod of 10 II 15/01/2024 to 16/01/2024
+Description
+
+You are given a number stored in a variable with the namenum
+
+Find out the value obtained from the expressioni % 10, whereiconsists of all the values from 1 to the value stored innum, includingnum
+
+
+Input
+The first and the only line of the input contains the value stored innum
+
+
+Output
+Print the value obtained after doing the operation,i % 10, whereirefers to all the values from 1 to the number stored innum, including that as well
+
+Note : Print all the values on a new line
+
+Sample Input 1 
+
+7
+Sample Output 1
+
+1
+2
+3
+4
+5
+6
+7
+Hint
+
+In the sample test case, the value stored in the variablenum = 7
+
+All the values in the range from 1 to 7 are put in the expressioni % 10, such that
+
+1 % 10 = 1
+2 % 10 = 2
+3 % 10 = 3
+4 % 10 = 4
+5 % 10 = 5
+6 % 10 = 6
+7 % 10 = 7
+
+Therefore, the required output is
+
+1
+2
+3
+4
+5
+6
+7
+
+
